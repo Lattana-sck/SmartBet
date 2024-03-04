@@ -31,7 +31,7 @@ npx hardhat run scripts/deploySmartBet.js --network sepolia
 ## Authors
 
 - [@lattana-sck](https://www.github.com/lattana-sck)
-- 
+
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
